@@ -1,5 +1,5 @@
 // Ultra Fast Bangladesh DNS Server
-// GitHub: https://github.com/yourusername/bangladesh-dns-system
+// GitHub: https://github.com/atyel/bangladesh-dns-system
 // DNS URL: https://dns.bdix.workers.dev
 
 addEventListener('fetch', event => {
